@@ -1,0 +1,23 @@
+ div{
+    background-color: rgb(227, 226, 219);
+    border: 2px solid black;
+    padding: 3%;
+    height: 200px;
+    width: 500px;
+    border-radius: 35px;
+    box-shadow: 15px 15px 10px;
+ }
+ h2{
+   height: auto;
+   width: 200px;
+   border-radius: 10px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:oblique;
+    font-variant: small-caps;
+    background-color: rgb(109, 200, 212);
+    border: 2px dotted red;
+ }
+ label{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
